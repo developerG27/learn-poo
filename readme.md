@@ -45,3 +45,33 @@ I principali di linguaggi orientati ad oggetti sono:
 
 # UML : Unified Modeling Language
 E' un insieme di elementi grafici che si uniscono per creare diagrammi, UML è un linguaggio e quindi ha regole per combinare gli elementi
+
+# Oggetti
+Un oggetto può essere concreto o astratto e possiede proprietà e comportamenti
+
+Esempio:
+Un utente è un oggetto concreto
+Una sessione è un oggetto astratto o concettuale
+
+Le proprietà si possono chiamare anche attributi, esempio:
+nome, dimensione, forma ecc..
+
+Comportamento: sono tutte le operazioni dell'oggetto, esempio
+login(), logout() ecc..
+
+Esempio completo:
+Un cane può avere diverse proprietà:
+-nome
+-colore
+-razza
+-altezza
+Può avere anche dei comportamenti:
+-abbaiare
+-mangiare
+-dormire
+-correre
+
+Immaginiamo di avere un sistema di addozioni, quindi dovremmo aggiungere nuove proprietà
+-id : ho bisogno di un identificatore così da poterlo distinguere dagli altri cani
+E anche nuovi comportamenti
+essereAdottato()
