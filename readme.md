@@ -43,4 +43,5 @@ I principali di linguaggi orientati ad oggetti sono:
 -Ruby
 -Kotlin
 
-# UML
+# UML : Unified Modeling Language
+E' un insieme di elementi grafici che si uniscono per creare diagrammi, UML è un linguaggio e quindi ha regole per combinare gli elementi
