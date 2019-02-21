@@ -25,10 +25,22 @@ I principali problemi della programmazione strutturata sono:
 -Se qualcosa non funziona, si rompe tutto
 -Difficile da mantenere, in quanto codice spaghetti
 
-#Logica
+# Logica
 La logica della programmazione orientata ad oggetti è analizzare il problema in forma di oggetti
 Le classi hanno:
 -attributi: le proprietà che hanno
 -metodi: le cose che sanno fare
 Tutto l'insieme si chiama oggetto
-Questa logica viene chiamata paradigma
+Questa logica viene chiamata paradigma di programmazione
+
+# Linguaggi orientati ad oggetti
+I principali di linguaggi orientati ad oggetti sono:
+-Java
+-Php
+-Python
+-Javascript
+-C#
+-Ruby
+-Kotlin
+
+# UML
