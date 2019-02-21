@@ -75,3 +75,6 @@ Immaginiamo di avere un sistema di addozioni, quindi dovremmo aggiungere nuove p
 -id : ho bisogno di un identificatore così da poterlo distinguere dagli altri cani
 E anche nuovi comportamenti
 essereAdottato()
+
+# Astrazione e Classi
+Una classe è il modello sulla quale si contruirà il nostro oggetto, quindi bisogna analizzare gli oggetti per creare classi, questa azione viene chiamata ASTRAZIONE, quanto noi estraiamo i dati da un oggetto per generare una classe.
