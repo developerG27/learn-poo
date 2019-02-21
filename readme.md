@@ -78,3 +78,13 @@ essereAdottato()
 
 # Astrazione e Classi
 Una classe è il modello sulla quale si contruirà il nostro oggetto, quindi bisogna analizzare gli oggetti per creare classi, questa azione viene chiamata ASTRAZIONE, quanto noi estraiamo i dati da un oggetto per generare una classe.
+
+# Modularità
+E' un concetto della programmazione orientata ad oggetti e consiste nel dividere il sistema e creare moduli indipendenti, questo garantisce:
+-Poter riutilizzare codice 
+-Evitare collassi
+-Maggior mantinibilità 
+-Maggior leggibilità
+-Una risoluzione più rapida dei problemi
+Si ispira molto dal concetto di disegno modulare.
+Per rendere la modularità effettiva ogni classe dovrà essere divisa in differenti file
