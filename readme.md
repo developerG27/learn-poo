@@ -88,3 +88,8 @@ E' un concetto della programmazione orientata ad oggetti e consiste nel dividere
 -Una risoluzione più rapida dei problemi
 Si ispira molto dal concetto di disegno modulare.
 Per rendere la modularità effettiva ogni classe dovrà essere divisa in differenti file
+
+# DRY: Don't Repeat Yoursel
+E' una filosofia della programmazione che consiste nell'eliminare il codice duplicato, tutto questo è permesso grazie all'ereditarietà.
+Quest'ultima ci permette creare nuove classi partendo da altre
+"Quando mi rendo conto che abbiamo caratteristiche e comportamenti uguali devo realizzare un astrazione"
