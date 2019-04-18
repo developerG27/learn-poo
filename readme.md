@@ -93,3 +93,56 @@ Per rendere la modularità effettiva ogni classe dovrà essere divisa in differe
 E' una filosofia della programmazione che consiste nell'eliminare il codice duplicato, tutto questo è permesso grazie all'ereditarietà.
 Quest'ultima ci permette creare nuove classi partendo da altre
 "Quando mi rendo conto che abbiamo caratteristiche e comportamenti uguali devo realizzare un astrazione"
+
+
+# Programmazione orientata ad oggetti
+Prevede l'uso di oggetti indipendenti con una responsabilità precisa ma che allo stesso tempo collaborano tra di loro.
+- Namespace
+- Classe
+- Oggetto
+- Proprietà
+- Metodo
+- Construttore
+- Ereditarietà
+- Incapsulamento
+- Astrazione
+- Polimorfismo
+
+## Namespace
+È un contenitore astratto che consente raggruppare i nomi per categorie.
+
+## Classe
+Definisce il modello di partenza, le caratteristiche che avrà.
+
+## Oggetto
+Una volta instanziata una classe si crea l'oggetto
+
+## Proprietà
+Le caratteristiche di un oggetto, ad esempio, basandoci su una macchina le su proprietà saranno:
+- marca
+- modello
+- colore
+- potenza del motore
+- le porte
+
+## Metodo
+I metodi sono le azioni che può fare un oggetto, basandoci sempre sulla macchina i suoi metodi saranno:
+- accellerare
+- frenare
+- girare
+
+## Costruttore
+È un metodo speciale che si esegue al momento di creare un oggetto e permette inizializzare le variabili
+
+## Ereditarietà
+Permette ad una classe ereditare le proprietà da un altra classe.
+
+## Incapsulamento
+Raggruppa i dati e metodi in un contenitore e ne garantisce l'integrità, evita qualsiasi accesso ai dati a qualsiasi mezzo distinto da quelli che noi specifichiamo.
+
+## Astrazione
+Quando estraiamo i dati da un oggetto per generare una classe
+
+## Polimorfismo
+Poli = molte, morfismo = forme
+Si basa su costruire metodi con lo stesso nome ma con comportamento differente
